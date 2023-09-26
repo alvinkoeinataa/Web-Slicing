@@ -1,0 +1,27 @@
+[
+  {
+    "image": "./rumah1.webp",
+    "title": "Rumah Ekslusif Tipe Winter",
+    "harga": "Rp 326.000.000",
+    "desc": "2 kamar tidur, 1 kamar mandi, 65m2"
+  },
+  {
+    "image": "./rumah2.jpg",
+    "title": "Rumah Platinum Tipe bintang",
+    "harga": "Rp 225.000.000",
+    "desc": "3 kamar tidur, 2 kamar mandi, 90m2"
+  },
+  {
+    "image": "./rumah3.jpeg",
+    "title": "Rumah Quark Quay",
+    "harga": "Rp 650.000.000",
+    "desc": "5 kamar tidur, 3 kamar mandi, 120m2"
+  },
+
+  {
+    "image": "./rumah4.jpg",
+    "title": "Rumah Citraland Gamma",
+    "harga": "Rp 500.000.000",
+    "desc": "5 kamar tidur, 3 kamar mandi, 120m2"
+  }
+]
